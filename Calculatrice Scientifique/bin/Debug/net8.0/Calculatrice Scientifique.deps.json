@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculatrice Scientifique/1.0.0": {
+        "runtime": {
+          "Calculatrice Scientifique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculatrice Scientifique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

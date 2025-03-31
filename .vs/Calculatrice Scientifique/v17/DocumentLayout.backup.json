@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kount\\OneDrive\\Bureau\\WorkSpace\\C#\\Calculatrice Scientifique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1634AF-2987-4A31-A3B3-8345DA5CA814}|Calculatrice Scientifique\\Calculatrice Scientifique.csproj|c:\\users\\kount\\onedrive\\bureau\\workspace\\c#\\calculatrice scientifique\\calculatrice scientifique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1634AF-2987-4A31-A3B3-8345DA5CA814}|Calculatrice Scientifique\\Calculatrice Scientifique.csproj|solutionrelative:calculatrice scientifique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kount\\OneDrive\\Bureau\\WorkSpace\\C#\\Calculatrice Scientifique\\Calculatrice Scientifique\\Program.cs",
+              "RelativeDocumentMoniker": "Calculatrice Scientifique\\Program.cs",
+              "ToolTip": "C:\\Users\\kount\\OneDrive\\Bureau\\WorkSpace\\C#\\Calculatrice Scientifique\\Calculatrice Scientifique\\Program.cs",
+              "RelativeToolTip": "Calculatrice Scientifique\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwGwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:16:46.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
